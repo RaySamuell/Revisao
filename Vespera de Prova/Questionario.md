@@ -7,5 +7,10 @@ Questão 2 - Quais linguagens posso utilizar quando trabalho com GitHub ?
 
 Resposta: No GitHub não tem restrições de linguagens.
 
+Questão 3 - O que é um repositório ?
+
+Resposta: É uma pasta onde vai ser colocada os arquivos do projeto.
+
+
 
 
