@@ -27,6 +27,10 @@ Questão 7 - O que é Pull Request ?
 
 resposta: É uma forma colaborativa de compartilhar criação ou mudanças de código no repositório.
 
+Questão 8 - O que é Fork ?
+
+Resposta: É uma cópia de um repositório de outro usúario para o seu.
+
 
 
 
