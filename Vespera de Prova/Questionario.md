@@ -23,6 +23,10 @@ Questão 6 - O que é Branch ?
 
 Resposta: Ramificação dos repositórios.
 
+Questão 7 - O que é Pull Request ?
+
+resposta: É uma forma colaborativa de compartilhar criação ou mudanças de código no repositório.
+
 
 
 
