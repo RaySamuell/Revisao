@@ -15,6 +15,9 @@ Questão 4 - Os códigos que colocam no GitHub estara sempre disponíveis a todo
 
 Resposta: Somente se o usuário principal (no caso o que fez o codigo) deixar em público.
 
+Questão 5 - O que é VCS ?
+
+Resposta: Software de Controle de Versão.
 
 
 
