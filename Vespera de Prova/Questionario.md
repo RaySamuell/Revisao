@@ -29,7 +29,11 @@ resposta: É uma forma colaborativa de compartilhar criação ou mudanças de c�
 
 Questão 8 - O que é Fork ?
 
-Resposta: É uma cópia de um repositório de outro usúario para o seu.
+Resposta: É uma cópia de um repositório de outro usuário para o seu.
+
+Questão 9 - O que é Clone ?
+
+Resposta: O Clone clona o repositório remoto para local.
 
 
 
