@@ -13,7 +13,7 @@ Resposta: É uma pasta onde vai ser colocada os arquivos do projeto.
 
 Questão 4 - Os códigos que colocam no GitHub estara sempre disponíveis a todos os usuários da Web ? 
 
-Resposta: Somente se o usuário principal (no caso o que fez o codigo) deixar em publico.
+Resposta: Somente se o usuário principal (no caso o que fez o codigo) deixar em público.
 
 
 
